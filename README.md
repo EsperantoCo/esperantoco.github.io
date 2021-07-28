@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+[![](https://csnespeco.blob.core.windows.net/retejoespe/2018/03/LOGO-03.png)](https://beautifuljekyll.com/plans/)
 
 # Esperanta testo
 
